@@ -1,0 +1,58 @@
+/* my body edit */
+
+body{
+  font-family: sans-serif;
+  color: #000000;
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F0F8FF	;
+}
+/* Edit the navigation
+Changing the background color
+Adding border radius*/
+.top{
+  overflow: hidden;
+  background-color:rgb(70,130,180);
+  border-radius: 0;
+}
+/* Edit the navigations*/
+.top a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 20%;
+  text-align:left;
+
+}
+/* Edit the navigations*/
+.top a:hover {
+  background-color:	;
+  color: #ADD8E6;
+}
+/* heading 1
+Changing the background color
+Adding border radius
+Editing the height
+The size of the words making it bigger
+Color for the words changing it to MidnightBlue color. */
+h1{
+  background-color:#ADD8E6;
+  border-radius:0;
+  height: 50px;
+  text-align:center;
+  font-size: 35;
+  color: #191970;
+}
+/* Edit the heading2*/
+h2{
+  text-decoration:none;
+  text-decoration-color: #000000;
+  color:#6495ED;
+    font-size:30px;
+    font-family:cursive;
+    background-color:;
+    text-align: center;
+}

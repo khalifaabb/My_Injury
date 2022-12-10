@@ -1,0 +1,128 @@
+/* my body edit */
+body{
+  font-family: sans-serif;
+  color: #000000;
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F0F8FF	;
+}
+/* Edit the navigation
+Changing the background color
+Adding border radius*/
+.top {
+  overflow: hidden;
+  background-color:rgb(70,130,180);
+  border-radius: 0;
+}
+/* Edit the navigations*/
+.top a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  text-align:left;
+
+}
+/* Edit the navigations*/
+.top a:hover {
+  background-color:	;
+  color: #ADD8E6;
+}
+/* heading 1
+Changing the background color
+Adding border radius
+Editing the height
+The size of the words making it bigger
+Color for the words changing it to MidnightBlue color. */
+h1{
+  background-color:#ADD8E6;
+  border-radius:0;
+  height: 50px;
+  text-align:center;
+  font-size: 35;
+  color: #191970;
+}
+/* Editing about
+the decoration for the words i mention that no need
+the color for the text will be change to Black color  */
+.AboutMe h1,h2{
+  text-decoration:none;
+  text-decoration-color: #000000;
+  color:#6495ED;
+    font-size:30px;
+    font-family:cursive;
+    background-color:;
+}
+/* Editing the paragraph */
+.AboutMe p{
+    background-color:AliceBlue;
+    border-radius: 3px;
+    font-size:20px;
+    color: #4682B4	;
+}
+/* editing the text and the image content
+adding a left float */
+.webK{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* editing the text and the image content and the columns */
+.webR::after {
+  content: "";
+  clear: both;
+  display: table;
+  text-decoration:;
+  text-decoration-color: #000000;
+  color: #6495ED;
+  font-size:20;
+
+}
+/* Additing my gym routine header and paragraph
+Adding border radius
+Padding to 10px and 20 px
+the text color making it Black
+the background color making it gray
+making the text size larger 20px
+and the color for the whole words SteelBlue color. */
+.gymroutine{
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration-color: #000000;
+  background-color: #ddd;
+    font-size:20px;
+    color: #4682B4;
+
+}
+/* editing my gym routine h2 */
+
+.gymroutine h2{
+  text-decoration: none;
+  text-decoration-color: #000000;
+    font-size:20;
+}
+/* editing and electing the whole page by adding a star
+Adding border radius
+Changing the font size */
+
+* {
+  box-sizing: border-box;
+  border-radius: 16px;
+    font-size:20;
+}
+/* editing the paragraph */
+
+.hh p{
+    background-color: #ADD8E6;
+    text-transform:;
+      font-size:20;
+      border-radius: 0;
+      text-align:center;
+      margin:;
+      font-size:20px;
+
+}
